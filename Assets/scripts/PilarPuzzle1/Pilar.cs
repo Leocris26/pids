@@ -32,7 +32,7 @@ public class Pilar : MonoBehaviour {
 	}
 
 	void initRotation(){
-		transform.Rotate (0,0,90, Space.World);	
+		this.transform.Rotate (0,90,0);	
 		state = (state + 1) % 4;
 
 	}
