@@ -48,6 +48,7 @@
      <Compile Include="Assets\scripts\CupController.cs" />
      <Compile Include="Assets\scripts\CupController2.cs" />
      <Compile Include="Assets\scripts\Cursor.cs" />
+     <Compile Include="Assets\scripts\Digitos.cs" />
      <Compile Include="Assets\scripts\Door.cs" />
      <Compile Include="Assets\scripts\Key.cs" />
      <Compile Include="Assets\scripts\Keychain.cs" />
@@ -59,6 +60,7 @@
      <Compile Include="Assets\scripts\PuzleSquares\PuzzleTorch.cs" />
      <Compile Include="Assets\scripts\PuzleSquares\Square.cs" />
      <Compile Include="Assets\scripts\PuzleSquares\Trigger.cs" />
+     <Compile Include="Assets\scripts\PuzzleCodigo.cs" />
      <Compile Include="Assets\scripts\PuzzleJarrones.cs" />
      <Compile Include="Assets\scripts\SpikeController.cs" />
      <Compile Include="Assets\scripts\TextureChanger.cs" />
